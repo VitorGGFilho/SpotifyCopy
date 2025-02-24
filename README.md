@@ -1,2 +1,2 @@
 # SpotifyCopy
-A copy of Spotify
+Just a copy of Spotify to help me pratice
