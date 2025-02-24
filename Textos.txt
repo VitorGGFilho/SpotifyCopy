@@ -1,0 +1,45 @@
+ import React from "react";
+
+ const App2 = () => {
+   return <div>App2</div>;
+ };
+
+ export default App2;
+
+ rafce
+
+ const App2 = () => {
+   return <h1>Olá, Mundo</h1>;
+ };
+
+ Nomeação de Componentes usa PascalCase
+Nomeação de Variável, Função... usa CamelCase
+
+export default, posso importar com qualquer nome sem precisar de chavez
+export "sem default" só posso importar entre chaves e com o nome exportado
+
+ Nomeação de classe em CSS
+ Metodologia BEM
+
+StrictMode Ele renderiza o código 2 vezes
+
+ {Array(items)
+   .fill()}
+
+ Spread operator {...obj}
+
+ if artist = undefined or empty Artista
+
+ Ctrl+Shift+f Search
+
+Quando componentes se re-renderizam
+ Uma das ocasiões é quando uma variável de estado usada por esse componente é atualizada
+
+ hook - useState
+
+ condição ? expressãoSeVerdadeira : expressãoSeFalsa (em jsx pode se usar assim)
+Implementar Um botão de ativação Shuffle
+
+npm init -y (Criar um novo package json)
+
+npm i express (instalar o express)

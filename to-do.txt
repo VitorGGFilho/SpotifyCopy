@@ -1,0 +1,9 @@
+Construir uma API - Significa Application Programming Interface, um sistema utilizado para a comunicação entre 2 entidades
+type module significa que todas as importações estão sendo feitas com a forma mais recente
+Conexão com o Banco de Dados
+Conectar o Front com o End
+Mexer na lógica do player
+
+(Adicionar Uma maneira de aumentar e diminuir o volume) Principal
+
+-Trazer o projeto no GitHub
