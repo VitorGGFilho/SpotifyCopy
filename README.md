@@ -1,2 +1,2 @@
 # SpotifyCopy
-Just a copy of Spotify to help me pratice
+Uma cópia do spotify que me ajudou melhor a entender javascript, raect e node.js
